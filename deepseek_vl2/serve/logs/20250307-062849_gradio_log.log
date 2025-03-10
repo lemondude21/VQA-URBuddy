@@ -1,0 +1,11 @@
+2025-03-07 08:06:02,503 - gradio_logger - INFO - ================================================================================
+2025-03-07 08:06:02,504 - gradio_logger - INFO - <|User|>: <image>
+<image>
+you are a helper ai assistant for a company. what can you tell me about these followings graphs. mention any important details you think are interesting 
+
+<|Assistant|>:
+2025-03-07 08:06:23,226 - gradio_logger - INFO - ================================================================================
+2025-03-07 08:06:23,227 - gradio_logger - INFO - <|User|>: .
+
+<|Assistant|>:
+2025-03-07 08:06:35,308 - gradio_logger - INFO - ================================================================================
